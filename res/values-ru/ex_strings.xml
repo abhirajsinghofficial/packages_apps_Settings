@@ -251,8 +251,4 @@
   <string name="ui_style_applied_toast">UI стиль применен!</string>
   <string name="battery_image">Напряжение батареи</string>
   <string name="battery_image_description">Показывать уровень заряда батареи в строке состояния</string>
-
-  <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Звук при снятии скриншота</string>
-
 </resources>
